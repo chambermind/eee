@@ -1,0 +1,25 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/etherealecho.online
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/etherealecho.online-bytes_log
+documentroot: /home/etheqouj/public_html
+group: etheqouj
+hascgi: 1
+homedir: /home/etheqouj
+ip: 162.254.39.2
+owner: wh
+phpopenbasedirprotect: 1
+port: 81
+scriptalias: 
+  - 
+    path: /home/etheqouj/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@etherealecho.online
+serveralias: mail.etherealecho.online www.etherealecho.online
+servername: etherealecho.online
+usecanonicalname: 'Off'
+user: etheqouj

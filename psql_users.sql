@@ -1,0 +1,1 @@
+CREATE USER "etheqouj" WITH PASSWORD E'md5f3e639698f46fde3a532b8c8beeb82f0';

@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/etheqouj/public_html
+group: etheqouj
+hascgi: 1
+homedir: /home/etheqouj
+ip: 162.254.39.2
+ipv6: ~
+owner: wh
+phpopenbasedirprotect: 1
+port: 444
+secruleengineoff: ~
+serveradmin: webmaster@etherealecho.online
+serveralias: mail.etherealecho.online www.etherealecho.online
+servername: etherealecho.online
+ssl: 1
+usecanonicalname: 'Off'
+user: etheqouj
+userdirprotect: ''
